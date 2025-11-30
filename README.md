@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 # Olá, Visitante! Eu sou Jeff 👋
 
 Bem-vindo ao meu cantinho cibernético aqui no GitHub! 🚀
