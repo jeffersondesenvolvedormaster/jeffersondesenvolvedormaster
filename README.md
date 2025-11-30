@@ -1,6 +1,9 @@
 # Olá, Visitante! Eu sou Jeff 👋
 
-[![Banner Tecnológico Animado](raw.githubusercontent.com)](github.com)
+<p align="center">
+  <img src="github-readme-stats.vercel.app" alt="Estatísticas do GitHub de SEU_USERNAME"/>
+</p>
+
 
 Bem-vindo ao meu cantinho cibernético aqui no GitHub! 🚀
 
