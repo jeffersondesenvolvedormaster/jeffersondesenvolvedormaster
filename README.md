@@ -1,7 +1,7 @@
 # Olá, Visitante! Eu sou Jeff 👋
 
 <p align="center">
-  <img src="github-readme-stats.vercel.app" alt="Estatísticas do GitHub de SEU_USERNAME"/>
+  <img src="[github-readme-stats.vercel.app](https://png.pngtree.com/recommend-works/png-clipart/20250103/ourmid/pngtree-a-red-octopus-emoji-png-image_15025050.png)" alt="polvo animado"/>
 </p>
 
 
