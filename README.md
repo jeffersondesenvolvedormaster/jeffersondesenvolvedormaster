@@ -17,7 +17,7 @@ Eu sou um entusiasta de tecnologia que adora transformar café ☕ em código �
   Conecte-se comigo! ⬇️
   <br>
   <a href="https://www.linkedin.com/in/jeffersondesenvolvedormaster/" target="_blank">
-    <img src="img.shields.io" alt="LinkedIn">
+    
   </a>
   
 </p>
