@@ -5,6 +5,9 @@ Bem-vindo ao meu cantinho cibernético aqui no GitHub! 🚀
 Eu sou um entusiasta de tecnologia que adora transformar café ☕ em código 💻
 
 ### O que você encontra por aqui?
+![200w](https://github.com/user-attachments/assets/dbb51597-d809-42fb-b07d-806073088ebe)
+
+
 
 -   🔭 **Projetos:** Experimentos com `Python`, `JavaScript` e `html css`.
 -   🌱 **Aprendendo:** Atualmente, explorando o mundo de `Analise de Dados` .
