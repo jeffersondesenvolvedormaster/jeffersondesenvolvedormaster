@@ -1,3 +1,5 @@
+<img width="541" height="343" alt="image" src="https://github.com/user-attachments/assets/dbf64ab2-c65c-47b5-8574-e68bd80f4d30" />
+
 # Olá, Visitante! Eu sou Jeff 👋
 
 Bem-vindo ao meu cantinho cibernético aqui no GitHub! 🚀
