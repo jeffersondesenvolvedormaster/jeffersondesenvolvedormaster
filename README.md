@@ -1,4 +1,5 @@
-<img width="541" height="343" alt="image" src="https://github.com/user-attachments/assets/dbf64ab2-c65c-47b5-8574-e68bd80f4d30" />
+<img width="678" height="280" alt="image" src="https://github.com/user-attachments/assets/7bd7ff93-a3ff-47a6-a3f4-053455e6f5d3" />
+
 
 # Olá, Visitante! Eu sou Jeff 👋
 
