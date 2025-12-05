@@ -3,7 +3,7 @@
 
 <img width="8538" height="4863" alt="dashboard_readme" src="https://github.com/user-attachments/assets/a897b704-d574-4506-9a7e-19299b0120c2" />
 Link para acessar a pasta e baixar o arquivo no formato.pbix para abrir no Power BI.
-:open_file_folder: https://github.com/jeffersondesenvolvedormaster/Power-BI-supermercados
+📂 https://github.com/jeffersondesenvolvedormaster/Power-BI-supermercados
 
 
 
