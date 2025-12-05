@@ -53,7 +53,7 @@ Leite em pó – R$ 4.112
 
 Salsicha – R$ 4.023
 
-➡ Conclusão: O mix é variado (hortifruti, higiene, lata e mercearia), com destaque para itens de alto giro.
+➡ Conclusão: O mix é variado (hortifruti, higiene, mercearia), com destaque para itens de alto giro.
 
 5. Vendas por Gênero
 
@@ -73,7 +73,7 @@ Melhores meses: Janeiro e Junho
 
 Meses mais fracos: Fevereiro e Abril
 
-➡ Conclusão: Há sazonalidade clara no começo e no fim do semestre.
+➡ Conclusão: Há sazonalidade no começo e fim do semestre.
 
 8. Top Clientes
 
