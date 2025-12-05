@@ -1,7 +1,6 @@
 # Power-BI
-Projeto: análise de vendas rede de supermercados, utilizando um Dashboard.
 
-* Para acesar o Dashboard baixe o arquivo que esta acima e abra no seu Power BI.
+
 <img width="8538" height="4863" alt="dashboard_readme" src="https://github.com/user-attachments/assets/a897b704-d574-4506-9a7e-19299b0120c2" />
 
 
