@@ -93,4 +93,4 @@ Mix variado e com alto giro
 
 Crescimento projetado positivo
 
-Sazonalidade aproveitável
+Aproveitamento de Sazonalidade.
