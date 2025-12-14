@@ -30,7 +30,7 @@ Lojas com menor desempenho:
 
 Retina Mercado, Paraíso, Doce Mercado, Vencedor.
 
-➡ Conclusão: A maior parte do faturamento está concentrada em poucas lojas; há oportunidade de melhoria nas lojas de baixa performance.
+➡ Conclusão: A maior parte dos recursos está concentrada em poucas lojas; há oportunidade de melhoria nas lojas de baixa performance.
 
 3. Vendas por Estado
 
