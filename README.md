@@ -72,7 +72,7 @@ Regionais 4 e 5 apresentam menor oscilação, mas com desempenho mais baixo.
 
 Melhores meses: Janeiro e Junho
 
-Meses mais fracos: Fevereiro e Abril
+Meses com oportunidade de melhoria: Fevereiro e Abril
 
 ➡ Conclusão: Há sazonalidade no começo e fim do semestre.
 
