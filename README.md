@@ -22,7 +22,7 @@ Projeção: 504 mil (há potencial de crescimento)
 
 Quantidade vendida: 8,307 mil unidades
 
-➡ Conclusão: A empresa está projetando atingir a meta, tendência positiva.
+➡ Conclusão: A empresa está projetando superar a meta, tendência positiva.
 
 2. Vendas por Loja
 
