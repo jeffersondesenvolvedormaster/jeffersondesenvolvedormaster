@@ -1,6 +1,6 @@
 # Análise de vendas Power-BI
 
-<img width="1360" height="768" alt="mercado" src="https://github.com/user-attachments/assets/dce53c15-d888-49cb-b0c6-7b767be6f0a8" />
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlZmQ5eXNjYnFvd3M4anBkOXIwbmExamRnaWpwczJpbGJvemI3MiZlcD12MV9pbnRlcm5hbF9naWYfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="55" style="vertical-align:middle" />
 
 
 Link para acessar a pasta e baixar o arquivo no formato.pbix para abrir no Power BI.
